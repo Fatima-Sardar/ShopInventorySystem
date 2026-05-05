@@ -133,4 +133,4 @@ java -cp ".;C:\Users\HP\Desktop\ShopInventorySystem\out;C:\Users\HP\Desktop\mysq
 [YouTube Link — Add after recording]
 
 ## GitHub Repository
-[GitHub URL — Add after uploading]
+https://github.com/Fatima-Sardar/ShopInventorySystem.git
