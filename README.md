@@ -6,9 +6,9 @@ A Java-based console application for managing a shop's inventory. The system all
 
 ## Group Members
 
-| Full Name | CMS / ID | Section |
-|-----------|----------|---------|
-| [Your Name] | [Your CMS ID] | [Your Section] |
+| Full Name | CMS / ID   | Section |
+|-----------|------------|---------|
+| Fatima    | 023-25-0208|    B    |
 
 ---
 
