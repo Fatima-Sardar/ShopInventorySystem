@@ -6,10 +6,10 @@ A Java-based console application for managing a shop's inventory. The system all
 
 ## Group Members
 
-| Full Name | CMS / ID   | Section |
-|-----------|------------|---------|
-| Fatima    | 023-25-0208|    B    |
-
+| Full Name     | CMS / ID   | Section |
+|---------------|------------|---------|
+| Fatima        | 023-25-0208|    B    |
+| Rabia Shaikh  | 023-25-0512|    B    |
 ---
 
 ## Project Purpose
