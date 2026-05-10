@@ -130,7 +130,7 @@ java -cp ".;C:\Users\HP\Desktop\ShopInventorySystem\out;C:\Users\HP\Desktop\mysq
 ---
 
 ## Demo Video
-[YouTube Link — Add after recording]
+https://youtu.be/Njp0Br4zhVw?si=Ho21io7aCBfhoRNQ
 
 ## GitHub Repository
 https://github.com/Fatima-Sardar/ShopInventorySystem.git
